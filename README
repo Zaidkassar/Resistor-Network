@@ -1,0 +1,2 @@
+C++ program to act as a breadboard for resistors and voltage sources. Users can add resistors to the breadboard and set voltages at each node. Program can calculate voltages at all nodes with a preset voltage or attached resistor.
+This code was created as a class project.
